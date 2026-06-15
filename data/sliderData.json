@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "image": "/img.jpg",
+        "title": "Precision CNC Machining",
+        "subtitle": "State-of-the-art 5-axis CNC milling for complex geometries with micron-level accuracy.",
+        "cta": "Explore Services"
+    },
+    {
+        "id": 2,
+        "image": "/img2.jpg",
+        "title": "Advanced Metal Fabrication",
+        "subtitle": "From raw stock to finished part — we handle every step with expert craftsmanship.",
+        "cta": "View Portfolio"
+    },
+    {
+        "id": 3,
+        "image": "/img.jpg",
+        "title": "Industrial Automation",
+        "subtitle": "Integrating smart automation and robotics into modern manufacturing workflows.",
+        "cta": "Learn More"
+    },
+    {
+        "id": 4,
+        "image": "/img2.jpg",
+        "title": "Quality Assured Production",
+        "subtitle": "ISO-certified processes ensuring every component meets the strictest tolerances.",
+        "cta": "Our Standards"
+    },
+    {
+        "id": 5,
+        "image": "/img.jpg",
+        "title": "Custom Engineering Solutions",
+        "subtitle": "Tailored manufacturing solutions designed around your exact specifications.",
+        "cta": "Get a Quote"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Napkin Holder",
+        "image": "/img.jpg",
+        "href": "/collections/napkin-holder"
+    },
+    {
+        "id": 2,
+        "name": "Kitchen Tissue Stand",
+        "image": "/img2.jpg",
+        "href": "/collections/tissue-stand"
+    },
+    {
+        "id": 3,
+        "name": "Wooden Cutlery Box",
+        "image": "/img.jpg",
+        "href": "/collections/cutlery-box"
+    },
+    {
+        "id": 4,
+        "name": "Wall Tissue Holder",
+        "image": "/img2.jpg",
+        "href": "/collections/wall-tissue-holder"
+    },
+    {
+        "id": 5,
+        "name": "Spice & Tissue Rack",
+        "image": "/img.jpg",
+        "href": "/collections/spice-rack"
+    },
+    {
+        "id": 6,
+        "name": "Laptop Bed Table",
+        "image": "/img2.jpg",
+        "href": "/collections/laptop-table"
+    }
+]

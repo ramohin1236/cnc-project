@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Handcrafted Wooden Set",
+        "price": "৳ 1,200",
+        "image": "/img.jpg",
+        "tag": "Bestseller"
+    },
+    {
+        "id": 2,
+        "name": "Premium Kitchen Organizer",
+        "price": "৳ 950",
+        "image": "/img2.jpg",
+        "tag": "New"
+    },
+    {
+        "id": 3,
+        "name": "Wooden Craft Collection",
+        "price": "৳ 2,400",
+        "image": "/img.jpg",
+        "tag": "Featured"
+    }
+]
