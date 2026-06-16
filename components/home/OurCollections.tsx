@@ -51,7 +51,7 @@ export default function OurCollections() {
                 {/* ── Shop Now CTA ── */}
                 <div className="flex justify-center mt-10">
                     <Link
-                        href="/collections"
+                        href="/shop"
                         className="inline-flex items-center gap-2 border border-[#1D3930] text-[#1D3930] hover:bg-[#1D3930] hover:text-white text-sm font-semibold px-7 py-2.5 rounded-full transition-all duration-200"
                     >
                         Shop now

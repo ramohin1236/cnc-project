@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "name": "Handcrafted Napkin Holder",
+        "price": 850,
+        "image": "/img.jpg",
+        "category": "Kitchen",
+        "tag": "Bestseller",
+        "rating": 4.9,
+        "reviews": 128,
+        "description": "Elegant wooden napkin holder, hand-finished with natural oil."
+    },
+    {
+        "id": 2,
+        "name": "Premium Kitchen Organizer",
+        "price": 1200,
+        "image": "/img2.jpg",
+        "category": "Kitchen",
+        "tag": "New",
+        "rating": 4.7,
+        "reviews": 43,
+        "description": "Multi-compartment kitchen organizer crafted from premium-grade wood."
+    },
+    {
+        "id": 3,
+        "name": "Wooden Cutlery Box",
+        "price": 950,
+        "image": "/img.jpg",
+        "category": "Kitchen",
+        "tag": "Featured",
+        "rating": 4.8,
+        "reviews": 76,
+        "description": "Keep your cutlery tidy in this beautifully carved wooden box."
+    },
+    {
+        "id": 4,
+        "name": "Spice & Tissue Rack",
+        "price": 1500,
+        "image": "/img2.jpg",
+        "category": "Kitchen",
+        "tag": "New",
+        "rating": 4.6,
+        "reviews": 29,
+        "description": "Dual-purpose rack for spices and tissue rolls, space-saving design."
+    },
+    {
+        "id": 5,
+        "name": "Wall Tissue Holder",
+        "price": 680,
+        "image": "/img.jpg",
+        "category": "Bathroom",
+        "tag": null,
+        "rating": 4.5,
+        "reviews": 54,
+        "description": "Minimalist wall-mount tissue holder with a seamless wooden finish."
+    },
+    {
+        "id": 6,
+        "name": "Bathroom Shelf Unit",
+        "price": 2200,
+        "image": "/img2.jpg",
+        "category": "Bathroom",
+        "tag": "Featured",
+        "rating": 4.9,
+        "reviews": 91,
+        "description": "Three-tier bathroom shelf with anti-moisture lacquer coat."
+    },
+    {
+        "id": 7,
+        "name": "Laptop Bed Table",
+        "price": 2400,
+        "image": "/img.jpg",
+        "category": "Office",
+        "tag": "Bestseller",
+        "rating": 4.8,
+        "reviews": 215,
+        "description": "Foldable laptop bed table with smooth surface and adjustable height."
+    },
+    {
+        "id": 8,
+        "name": "Desk Cable Organizer",
+        "price": 580,
+        "image": "/img2.jpg",
+        "category": "Office",
+        "tag": null,
+        "rating": 4.4,
+        "reviews": 37,
+        "description": "Keep your desk cables neat with this precision-cut wooden organizer."
+    },
+    {
+        "id": 9,
+        "name": "Monitor Stand Riser",
+        "price": 1800,
+        "image": "/img.jpg",
+        "category": "Office",
+        "tag": "New",
+        "rating": 4.7,
+        "reviews": 62,
+        "description": "Solid wood monitor riser with a storage shelf underneath."
+    },
+    {
+        "id": 10,
+        "name": "Wooden Wall Clock",
+        "price": 1350,
+        "image": "/img2.jpg",
+        "category": "Decor",
+        "tag": "Featured",
+        "rating": 4.9,
+        "reviews": 188,
+        "description": "Laser-cut wooden wall clock with silent quartz movement."
+    },
+    {
+        "id": 11,
+        "name": "Geometric Wall Art Panel",
+        "price": 3200,
+        "image": "/img.jpg",
+        "category": "Decor",
+        "tag": "Bestseller",
+        "rating": 5.0,
+        "reviews": 102,
+        "description": "Stunning geometric CNC-carved panel for a premium wall accent."
+    },
+    {
+        "id": 12,
+        "name": "Floating Display Shelf",
+        "price": 1100,
+        "image": "/img2.jpg",
+        "category": "Decor",
+        "tag": null,
+        "rating": 4.6,
+        "reviews": 49,
+        "description": "Modern floating shelf for books, plants, or decorative pieces."
+    }
+]
