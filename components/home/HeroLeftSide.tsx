@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'next/link'
 
 const HeroLeftSide = () => {
     return (
@@ -9,9 +10,12 @@ const HeroLeftSide = () => {
             </h1>
 
             <div className="pt-1">
-                <button className="border border-white text-white text-sm font-semibold px-6 py-2.5 rounded-lg transition-colors duration-200 cursor-pointer hover:bg-[#C29B0C] hover:border-[#C29B0C] hover:text-white">
+                <Link
+                    href="/shop"
+                    className="inline-block border border-white text-white text-sm font-semibold px-6 py-2.5 rounded-lg transition-colors duration-200 cursor-pointer hover:bg-[#C29B0C] hover:border-[#C29B0C] hover:text-white"
+                >
                     Shop Now
-                </button>
+                </Link>
             </div>
 
         </div>
